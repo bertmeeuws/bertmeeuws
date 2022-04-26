@@ -3,7 +3,6 @@ I have a passion for software development, I mainly do a lot of fullstack stuff 
 
 
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Scala and system design 
 
 
