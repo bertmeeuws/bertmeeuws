@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Bert
-I have a passion for software development, I mainly do a lot of fullstack stuff in Javascript but I am currently focusing on a language called Scala with the goal of finding new interests.
+I have a passion for software development, I mainly do a lot of fullstack stuff in Javascript but I am currently focusing on a language called Scala with the goal of finding new interests and insights.
 
 
 
